@@ -1,0 +1,354 @@
+[
+  {
+    "id": "1737_00085",
+    "image": "/content/drive/MyDrive/FSDAM/val/1737_00085.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "In an urban intersection with red signal ahead, the driver maintains focus on the car ahead and the crosswalk. With no immediate changes in traffic, this attention is expected to stay fixed in the next moment."
+      }
+    ]
+  },
+  {
+    "id": "1744_00219",
+    "image": "/content/drive/MyDrive/FSDAM/val/1744_00219.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "In an urban intersection, the driver focuses on the lane ahead and red traffic light. This attention is expected to stay steady, as the light remains red and no changes in traffic or environment require a shift in focus."
+      }
+    ]
+  },
+  {
+    "id": "1747_00012",
+    "image": "/content/drive/MyDrive/FSDAM/val/1747_00012.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "At a city intersection with a green signal ahead, the driver focuses on the leading cars. This attention will likely remain forward as traffic begins to move. The green light and close vehicle spacing require continuous monitoring for safe acceleration and maintaining headway."
+      }
+    ]
+  },
+  {
+    "id": "1748_00243",
+    "image": "/content/drive/MyDrive/FSDAM/val/1748_00243.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "At a residential intersection with green bike lane markings and clear visibility down the cross street, the vehicle is stopped. The driver's attention is on two cyclists crossing from the right. This focus will likely shift forward as the cyclists finish crossing, signaling readiness to proceed safely."
+      }
+    ]
+  },
+  {
+    "id": "1753_00159",
+    "image": "/content/drive/MyDrive/FSDAM/val/1753_00159.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "In a residential neighborhood with a stop sign and a pickup truck turning at the intersection, the driver's attention is divided between the road markings, stop sign, and pedestrians near the right sidewalk. This focus will likely remain ahead and slightly right to monitor pedestrian movement and ensure safe passage through the intersection."
+      }
+    ]
+  },
+  {
+    "id": "1756_00013",
+    "image": "/content/drive/MyDrive/FSDAM/val/1756_00013.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "In an urban intersection with green signal ahead, the driver focuses on the car ahead. Attention will mostly stay forward with a slight shift right. This is due to forward motion and nearby pedestrians at the corner, requiring careful monitoring for safe progression."
+      }
+    ]
+  },
+  {
+    "id": "1768_00239",
+    "image": "/content/drive/MyDrive/FSDAM/val/1768_00239.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "On a residential street approaching a stop sign, the driver focuses on a red SUV and a nearby cyclist. Attention will remain on both as they near the intersection. This is necessary to coordinate stopping behavior and ensure safety before proceeding."
+      }
+    ]
+  },
+  {
+    "id": "1796_00034",
+    "image": "/content/drive/MyDrive/FSDAM/val/1796_00034.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "On a downhill residential street, the driver focuses on a distant pedestrian in the crosswalk. Attention will stay fixed ahead as the pedestrian enters full view. This is necessary due to an upcoming red light and the need to yield for safe pedestrian passage."
+      }
+    ]
+  },
+  {
+    "id": "1799_00120",
+    "image": "/content/drive/MyDrive/FSDAM/val/1799_00120.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "At a nighttime city intersection, the driver is focused on the white SUV ahead. Their gaze centers on its rear. Attention will likely stay on the SUV as traffic moves. This stable focus is needed to safely follow the lead vehicle under green light conditions."
+      }
+    ]
+  },
+  {
+    "id": "1803_00181",
+    "image": "/content/drive/MyDrive/FSDAM/val/1803_00181.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "In a busy urban downtown traffic shows a white car ahead and a bus to the left. The driver focuses on the lead vehicle. Attention will likely stay on that car due to slow movement and the need to maintain safe following distance as the car ahead proceeds."
+      }
+    ]
+  },
+  {
+    "id": "1808_00025",
+    "image": "/content/drive/MyDrive/FSDAM/val/1808_00025.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "At an urban intersection with a yellow signal, the driver focuses straight ahead. Attention will likely stay forward to monitor signal changes and make safe decisions, as the ambiguous signal requires careful tracking of the road and traffic conditions."
+      }
+    ]
+  },
+  {
+    "id": "1859_00241",
+    "image": "/content/drive/MyDrive/FSDAM/val/1859_00241.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "At a residential intersection, the driver observes a pedestrian and a left-turning car. Gaze centers on these dynamic elements. Attention will remain on them due to their continued presence and relevance. Safety concerns drive this stable visual focus."
+      }
+    ]
+  },
+  
+  {
+    "id": "1752_00005",
+    "image": "/content/drive/MyDrive/FSDAM/val/1752_00005.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "An urban underpass with two trucks directly ahead and a car in the adjacent lane. The driver approaches, focusing on the trucks. Attention will remain on them next frame, driven by the need to monitor their speed and position to brake or change lanes safely."
+      }
+    ]
+  }, 
+
+  {
+    "id": "1754_00079",
+    "image": "/content/drive/MyDrive/FSDAM/val/1754_00079.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "In a city street with transit and bike lanes, the driver watches the car ahead and a nearby cyclist. Attention will stay on the lead car. Since the cyclist is in a protected lane and not interfering, focus remains on the vehicle in front for pacing and safety."
+      }
+    ]
+  },
+  {
+    "id": "1760_00071",
+    "image": "/content/drive/MyDrive/FSDAM/val/1760_00071.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "At night in a busy urban street, the driver focuses on the red light and leading car. Attention will remain on them due to stopped traffic. The red signal and dense vehicle presence necessitate continued focus for safe resumption once the light turns green."
+      }
+    ]
+  },
+  {
+    "id": "1761_00005",
+    "image": "/content/drive/MyDrive/FSDAM/val/1761_00005.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "On a residential road with moderate traffic, the driver focuses on the blue sedan ahead. Attention will remain steady due to lack of disruptions. The lead vehicle controls the driving pace, so maintaining focus ensures safe following distance and smooth driving."
+      }
+    ]
+  },
+  {
+    "id": "1764_00188",
+    "image": "/content/drive/MyDrive/FSDAM/val/1764_00188.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "At a city intersection under a red light, the driver watches the lead car and signal. Attention will remain steady. Focus is necessary to judge the red light and the vehicle’s decision, ensuring safe, lawful driving through the intersection."
+      }
+    ]
+  },
+  {
+    "id": "1767_00017",
+    "image": "/content/drive/MyDrive/FSDAM/val/1767_00017.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "On a narrow street with parked cars, the driver focuses on a red pickup and cross-traffic bus. Attention will shift slightly forward. The bus crossing ahead presents a potential delay or hazard, requiring the driver to monitor traffic movement before proceeding safely."
+      }
+    ]
+  },
+  {
+    "id": "1769_00070",
+    "image": "/content/drive/MyDrive/FSDAM/val/1769_00070.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "In dense traffic at a green light, the driver focuses on the brown sedan ahead. Attention will stay on it. This is due to slow movement and the need for careful spacing while progressing through the intersection safely."
+      }
+    ]
+  },
+  {
+    "id": "1770_00008",
+    "image": "/content/drive/MyDrive/FSDAM/val/1770_00008.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "On a downhill city street after turning right, the driver first focuses on the crosswalk and curb; the driver’s gaze will then shift to the stop sign and vehicle ahead as the driver monitors the intersection, oncoming traffic, and cross‑traffic risks."
+      }
+    ]
+  },
+  {
+    "id": "1771_00259",
+    "image": "/content/drive/MyDrive/FSDAM/val/1771_00259.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "At a busy city intersection under a red light, the driver focuses on a sedan turning left across their lane. This attention is expected to remain on the sedan as it continues blocking the path. The driver monitors its movement to ensure safe clearance before proceeding."
+      }
+    ]
+  },  {
+    "id": "1772_00192",
+    "image": "/content/drive/MyDrive/FSDAM/val/1772_00192.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "In an urban intersection with stop sign, the driver focuses on the car ahead and a nearby pedestrian. Attention will likely stay on both due to the pedestrian nearing the crosswalk and the lead vehicle's next action affecting safe movement through the intersection."
+      }
+    ]
+  },
+  {
+    "id": "1773_00124",
+    "image": "/content/drive/MyDrive/FSDAM/val/x.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "On a city street with moderate traffic, the driver focuses on the lead vehicle and green light. Attention will shift left toward parked cars. This shift reflects vigilance for emerging pedestrians or vehicle doors, maintaining caution in a dynamic roadside area."
+      }
+    ]
+  },
+  {
+    "id": "1776_00064",
+    "image": "/content/drive/MyDrive/FSDAM/val/1776_00064.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "On an urban uphill road, the driver focuses on the taxi ahead and traffic light. Attention will stay forward as the taxi stops at a red light, requiring the driver to monitor the intersection and prepare to proceed when the signal turns green."
+      }
+    ]
+  },
+  {
+    "id": "1778_00183",
+    "image": "/content/drive/MyDrive/FSDAM/val/1778_00183.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "In a steep city street, driver is focusing on the vehicle and crosswalk ahead. Attention will likely remain centered due to the presence of the leading vehicle and the upcoming intersection, ensuring continued situational awareness and safe following."
+      }
+    ]
+  },
+  
+]
