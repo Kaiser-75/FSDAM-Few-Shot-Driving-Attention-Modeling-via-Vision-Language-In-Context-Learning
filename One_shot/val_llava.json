@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1737_00085",
+    "image": "fsdam/val/camera/1737_00085.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a busy urban intersection with cars, buildings, and a yellow traffic light ahead. The current gaze focuses on the car in front. The future gaze will likely shift to the traffic light. This is because the light's status will determine the next action, requiring the driver to quickly decide whether to stop or proceed through the intersection."
+      }
+    ]
+  },
+  {
+    "id": "1737_00287",
+    "image": "fsdam/val/camera/1737_00287.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a daytime city intersection with road construction and a red traffic light ahead. A white car is crossing from the left, and workers are visible near cones and utility equipment. The current gaze focuses on the approaching vehicle. The future gaze will likely shift toward the intersection and the red signal, as the driver prepares to assess cross-traffic and wait for the light to change."
+      }
+    ]
+  },
+  {
+    "id": "1744_00119",
+    "image": "fsdam/val/camera/1744_00119.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a road with a red traffic light and cars in the distance. The current gaze is focused on the traffic light. The future gaze will likely remain on the intersection. This is because the driver needs to monitor cross-traffic and wait for the light to turn green before proceeding."
+      }
+    ]
+  },
+  {
+    "id": "1744_00219",
+    "image": "fsdam/val/camera/1744_00219.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a road intersection with red signal and cars waiting. The current gaze is focused on the red traffic light. The future gaze will likely shift to the traffic light turning green. This is because the change in light signals the opportunity to proceed."
+      }
+    ]
+  },
+  {
+    "id": "1746_00008",
+    "image": "fsdam/val/camera/1746_00008.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a street with a school bus and cars at a green light. The current gaze focuses on the car in front. The future gaze will likely remain forward. This is because the green light allows continued movement, and the driver must monitor the vehicle ahead to maintain a safe following distance."
+      }
+    ]
+  },
+  {
+    "id": "1747_00012",
+    "image": "fsdam/val/camera/1747_00012.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a city street with cars, a bus, buildings, and a green traffic signal at the intersection. The current gaze focuses on the cars at the intersection. The gaze will likely remain forward. This is because the green signal allows traffic to proceed, and the driver needs to monitor the movement of vehicles ahead to navigate the intersection safely."
+      }
+    ]
+  },
+  {
+    "id": "1748_00018",
+    "image": "fsdam/val/camera/1748_00018.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "A tree-lined street with parked cars is visible. The current gaze focuses on the white car on the left. The future gaze will likely shift to the center of the road. This shift is due to the need to monitor the road ahead for potential obstacles or changes."
+      }
+    ]
+  },
+  {
+    "id": "1748_00243",
+    "image": "fsdam/val/camera/1748_00243.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a street with cyclists crossing and parked cars on both sides. The current gaze focuses on the cyclists crossing the intersection. The future gaze will likely shift to the road ahead. This is because the driver needs to ensure the cyclists have cleared the path and prepare to proceed safely through the intersection."
+      }
+    ]
+  },
+  {
+    "id": "1753_00160",
+    "image": "fsdam/val/camera/1753_00160.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a residential street with a stop sign, parked cars, and a pedestrian on the right walking along the footpath. The current gaze focuses on the stop sign. The future gaze will likely shift to the intersection ahead. This is because the driver needs to assess cross traffic and ensure it is safe to proceed after stopping."
+      }
+    ]
+  },
+  {
+    "id": "1754_00079",
+    "image": "fsdam/val/camera/1754_00079.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a city street with a car, bike lane, and buildings. The current gaze focuses on the car ahead and the cyclist on the right. The future gaze will likely shift to the road ahead. This is because the driver needs to coordinate movement based on both the lead vehicle and the cyclist\u00e2\u20ac\u2122s position while preparing to continue safely through the street."
+      }
+    ]
+  },
+  {
+    "id": "1755_00078",
+    "image": "fsdam/val/camera/1755_00078.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a street intersection with a stop sign and a white truck. The current gaze focuses on the white truck at the stop line. The future gaze will likely shift to the road ahead. This is because the truck is preparing to move forward after stopping."
+      }
+    ]
+  },
+  {
+    "id": "1756_00013",
+    "image": "fsdam/val/camera/1756_00013.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a busy urban street with cars, pedestrians, and a green traffic signal ahead. The current gaze focuses on the black car in the center. The future gaze will likely shift to the green signal. This is because the driver needs to monitor the signal for any potential change while coordinating movement with the car ahead to proceed safely through the intersection."
+      }
+    ]
+  },
+  {
+    "id": "1760_00071",
+    "image": "fsdam/val/camera/1760_00071.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a city street at dusk with cars stopped at a red light. The current gaze focuses on the red traffic light and the cars waiting. The future gaze will likely remain on the signal and lead vehicles. This is because the driver needs to anticipate the light change and be ready to respond when traffic begins to move."
+      }
+    ]
+  },
+  {
+    "id": "1761_00005",
+    "image": "fsdam/val/camera/1761_00005.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a suburban road with cars and trees lining the street. The current gaze is focused on the blue car in the center. The future gaze will likely remain on the blue car. This is because it is the lead vehicle, and the driver needs to monitor its movement to maintain a safe following distance and respond to any changes in speed or direction."
+      }
+    ]
+  },
+  {
+    "id": "1764_00032",
+    "image": "fsdam/val/camera/1764_00032.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a street with cars and a \"KEEP CLEAR\" marking. The current gaze focuses on the \"KEEP CLEAR\" area. The future gaze will likely shift to the traffic light ahead. This is because the light's status will determine the next driving action."
+      }
+    ]
+  },
+  {
+    "id": "1767_00017",
+    "image": "fsdam/val/camera/1767_00017.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a city street with vehicles, buildings, and a red traffic signal ahead. The current gaze focuses on the red truck. The future gaze will likely stay forward. This is because the driver needs to monitor the red signal and the truck\u00e2\u20ac\u2122s movement to determine when it is safe to proceed through the intersection."
+      }
+    ]
+  },
+  {
+    "id": "1768_00239",
+    "image": "fsdam/val/camera/1768_00239.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a residential street with parked cars, a cyclist in the right lane, and a stop sign ahead. The current gaze focuses on the vehicle in front and the nearby cyclist. The future gaze will likely stay forward to monitor the cyclist\u00e2\u20ac\u2122s movement and prepare for the upcoming stop sign. This is because the driver must yield appropriately at the intersection while ensuring safe passing distance from the cyclist."
+      }
+    ]
+  },
+  {
+    "id": "1771_00259",
+    "image": "fsdam/val/camera/1771_00259.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a commercial city intersection with retail buildings, a 25 mph speed limit sign, and a red traffic signal ahead. The current gaze focuses on the black car making a left turn. The future gaze will likely remain forward to monitor the traffic signal and check for crossing vehicles or pedestrians. This is because the red light requires the driver to wait for clearance before proceeding"
+      }
+    ]
+  },
+  {
+    "id": "1772_00192",
+    "image": "fsdam/val/camera/1772_00192.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a hilly residential street with a visible STOP marking on the road and a stop sign ahead. The current gaze focuses on the silver car directly in front and a pedestrian on right side. The future gaze will likely remain forward toward the intersection and the stop sign to monitor cross traffic and ensure it is safe to proceed. This is because the vehicle is approaching a controlled intersection requiring a full stop."
+      }
+    ]
+  },
+  {
+    "id": "1773_00089",
+    "image": "fsdam/val/camera/1773_00089.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Describe the scene, the driver's current focus of attention, and where that attention will likely shift next and why."
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a city street with cars, buildings, and a green signal ahead. The current gaze focuses on the car in the center lane. The future gaze will likely remain forward. This is because green lights invite movement, but urban settings still require monitoring for sudden stops or crossing hazards."
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+-Stop sign negotiation
+-Merging vehicle
+-Navigating through construction zone
+-Pedestrian crossing
+-Intersection with signal
+-Cyclist
+-Leading vehicle with left turning
