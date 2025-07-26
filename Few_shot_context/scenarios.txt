@@ -1,7 +1,8 @@
--Stop sign negotiation
--Merging vehicle
--Navigating through construction zone
--Pedestrian crossing
--Intersection with signal
--Cyclist
--Leading vehicle with left turning
+1. Urban Intersection with Traffic Lights
+2. Residential Street with Stop Signs
+3. Highway or Multi-Lane Road
+4. Night or Low-Light Scene
+5. Parking Lot or Commercial Area
+6. Construction or Work Zone
+7. Airport or Terminal
+8. Suburban or Tree-Lined Road
