@@ -4,10 +4,10 @@ import torch
 from parascore import ParaScorer
 
 model_files = [
-    "/content/blip2_predictions_zero_shot.json",
-    "/content/predictions_few_shot.json",
-    "/content/predictions_zero_shot.json",
-    "/content/predictions_one_shot.json"
+    "/results/blip2_predictions_zero_shot.json",
+    "/results/predictions_few_shot.json",
+    "/results/predictions_zero_shot.json",
+    "/results/predictions_one_shot.json"
 ]
 
 scorer = ParaScorer(lang="en", model_type="bert-base-uncased")
