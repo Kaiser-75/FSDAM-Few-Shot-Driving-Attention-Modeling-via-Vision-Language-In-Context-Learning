@@ -38,5 +38,5 @@ for path in model_files:
         avg = sum(scores) / len(scores) if scores else 0.0
 
     print(f"==== {os.path.basename(path)} ====")
-
+    print(f"ParaScore: {avg:.4f}")
 
